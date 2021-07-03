@@ -1,0 +1,5 @@
+1_stop.jpg 14
+2_turn-left-ahead.jpg 34
+3_80-Km-limit.jpg 5
+4_children_crossing.jpg 28 
+5_double_curve.png 21
